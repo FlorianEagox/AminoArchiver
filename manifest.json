@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "Amino Archiver",
+	"author": "Seth Painter",
+	"description": "Extension to archive chats on the socail platform Amino",
+	"version": "1.0",
+	"browser_action": {
+		"default_popup": "index.html"
+	},
+	"permissions": [
+		"https://aminoapps.com/partial/main-chat-window"
+	]
+}
